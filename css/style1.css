@@ -112,7 +112,7 @@ select {
 
 .about-mt {
 	line-height: 23px;
-	width: 524px;
+	max-width: 524px;
 }
 
 .buy-service-wrapper {
